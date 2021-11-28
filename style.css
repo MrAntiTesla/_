@@ -1,0 +1,12 @@
+body{
+    background-color:cyan;    
+    }
+    #Score{
+    font-size:17px;
+    margin-right: 555px;    
+    }
+    #Time{
+    font-size:17px;
+    float:right;
+    margin-right: 50px;    
+    }
